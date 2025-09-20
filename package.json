@@ -1,0 +1,13 @@
+{
+  "name": "enforce-cf-api",
+  "version": "1.0.0",
+  "description": "EnForce Coin Flip API",
+  "main": "api/cf.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/cf.js"
+  },
+  "author": "texas",
+  "license": "MIT",
+  "dependencies": {}
+}
